@@ -19,7 +19,7 @@ import { Toaster } from "react-hot-toast";
 function App() {
 	return (
 		<>
-			<BrowserRouter basename="live-life-dao-ui">
+			<BrowserRouter basename="www.lifelivedao.com">
 				<Routes>
 					<Route path="/" element={<MainPage />} />
 					<Route path="*" element={<Page404 />} />
