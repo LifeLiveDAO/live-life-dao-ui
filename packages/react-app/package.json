@@ -1,7 +1,7 @@
 {
 	"name": "@my-app/react-app",
 	"version": "1.0.0",
-	"homepage": "www.lifelivedao.com",
+	"homepage": "https://www.lifelivedao.com",
 	"browserslist": {
 		"production": [
 			">0.2%",
