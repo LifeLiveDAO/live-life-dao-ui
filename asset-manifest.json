@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/www.lifelivedao.com/static/css/main.29b99bca.chunk.css",
-    "main.js": "/www.lifelivedao.com/static/js/main.305972d5.chunk.js",
-    "main.js.map": "/www.lifelivedao.com/static/js/main.305972d5.chunk.js.map",
-    "runtime-main.js": "/www.lifelivedao.com/static/js/runtime-main.5bb733cd.js",
-    "runtime-main.js.map": "/www.lifelivedao.com/static/js/runtime-main.5bb733cd.js.map",
-    "static/js/2.946beb3a.chunk.js": "/www.lifelivedao.com/static/js/2.946beb3a.chunk.js",
-    "static/js/2.946beb3a.chunk.js.map": "/www.lifelivedao.com/static/js/2.946beb3a.chunk.js.map",
-    "index.html": "/www.lifelivedao.com/index.html",
-    "static/css/main.29b99bca.chunk.css.map": "/www.lifelivedao.com/static/css/main.29b99bca.chunk.css.map",
-    "static/js/2.946beb3a.chunk.js.LICENSE.txt": "/www.lifelivedao.com/static/js/2.946beb3a.chunk.js.LICENSE.txt",
-    "static/media/MediaQueries.css": "/www.lifelivedao.com/static/media/bg-hero.5b55e4b8.png",
-    "static/media/Styles.css": "/www.lifelivedao.com/static/media/footer-bg.2ba0ce7a.jpg",
-    "static/media/hero-video.b084b47b.mp4": "/www.lifelivedao.com/static/media/hero-video.b084b47b.mp4",
-    "static/media/line1.4a9859a7.svg": "/www.lifelivedao.com/static/media/line1.4a9859a7.svg",
-    "static/media/line2.5fb471af.svg": "/www.lifelivedao.com/static/media/line2.5fb471af.svg",
-    "static/media/line3.24f4722b.svg": "/www.lifelivedao.com/static/media/line3.24f4722b.svg",
-    "static/media/metamask.426833f1.svg": "/www.lifelivedao.com/static/media/metamask.426833f1.svg",
-    "static/media/wallet-connect.986542a2.svg": "/www.lifelivedao.com/static/media/wallet-connect.986542a2.svg"
+    "main.css": "./static/css/main.a40b8506.chunk.css",
+    "main.js": "./static/js/main.8fd8c30a.chunk.js",
+    "main.js.map": "./static/js/main.8fd8c30a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e901479d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e901479d.js.map",
+    "static/js/2.60993216.chunk.js": "./static/js/2.60993216.chunk.js",
+    "static/js/2.60993216.chunk.js.map": "./static/js/2.60993216.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a40b8506.chunk.css.map": "./static/css/main.a40b8506.chunk.css.map",
+    "static/js/2.60993216.chunk.js.LICENSE.txt": "./static/js/2.60993216.chunk.js.LICENSE.txt",
+    "static/media/MediaQueries.css": "./static/media/bg-hero.5b55e4b8.png",
+    "static/media/Styles.css": "./static/media/footer-bg.2ba0ce7a.jpg",
+    "static/media/hero-video.b084b47b.mp4": "./static/media/hero-video.b084b47b.mp4",
+    "static/media/line1.4a9859a7.svg": "./static/media/line1.4a9859a7.svg",
+    "static/media/line2.5fb471af.svg": "./static/media/line2.5fb471af.svg",
+    "static/media/line3.24f4722b.svg": "./static/media/line3.24f4722b.svg",
+    "static/media/metamask.426833f1.svg": "./static/media/metamask.426833f1.svg",
+    "static/media/wallet-connect.986542a2.svg": "./static/media/wallet-connect.986542a2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bb733cd.js",
-    "static/js/2.946beb3a.chunk.js",
-    "static/css/main.29b99bca.chunk.css",
-    "static/js/main.305972d5.chunk.js"
+    "static/js/runtime-main.e901479d.js",
+    "static/js/2.60993216.chunk.js",
+    "static/css/main.a40b8506.chunk.css",
+    "static/js/main.8fd8c30a.chunk.js"
   ]
 }
