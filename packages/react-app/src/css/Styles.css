@@ -164,6 +164,18 @@ video {
 	margin: 2rem 8rem;
 	background-color: black;
 }
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	.video-responsive {
+		margin: 2rem 7rem;
+		padding-bottom: 50%;
+	}
+}
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+	.video-responsive {
+		margin: 0;
+		padding-bottom: 75%;
+	}
+}
 
 .video-responsive iframe {
 	left: 0;

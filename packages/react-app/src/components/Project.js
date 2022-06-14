@@ -27,15 +27,10 @@ export default function Project() {
 						together thousands of fans with some of the biggest names in the Berlin music ecosystem and showing
 						attendees new ways to interact online.
 					</p>
-					<br></br>
-					<br></br>
 					<p className="text">
 						Think Twitch meets Tinder meets Chatroulette - but with rockets and glitter and a mutual love for music!
 					</p>
-					<br></br>
-					<br></br>
 					<YoutubeEmbed embedId="JRjrdSZOJG8" />
-					<div></div>
 					<p className="text">
 						Now in 2022, we’re taking LifeLive to web3. Our vision is to enable a direct connection between artists and
 						fans, shaking up the current system controlled by middlemen, and promote a new wave of global talent in
