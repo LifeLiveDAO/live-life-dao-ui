@@ -196,8 +196,8 @@
 	.bg-hero {
 		height: 100vh;
 		width: 100vw;
-		background-image: url("../background/bg-hero.png");
-		background-position: 65%;
-		background-repeat: no-repeat;
+		background-image: url("../background/bg-hero-dark.jpg");
+		background-position: 100%;
+		background-size: cover;
 	}
 }
