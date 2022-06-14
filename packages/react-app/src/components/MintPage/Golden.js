@@ -26,10 +26,10 @@ export default function Golden({ onGoldenClick, availableGoldenNFT, totalSupplyG
 				</div>
 				<ul>
 					<li className="li-desktop">
-						You are among our strongest supporters and we will reward you with a 100% boost on top of your contribution					
+						You are among our strongest supporters and we will reward you with a 100% boost on top of your contribution
 					</li>
 					<li className="li-desktop">Receive a unique Web3 Raver NFT</li>
-					<li className="li-desktop">Access to the seed round lounge</li>
+					<li className="li-desktop">Access to the OG Lounge</li>
 					<li className="li-desktop">Access to all other private lounges</li>
 					<li className="li-desktop">A large boost to your gamification supplies</li>
 				</ul>
@@ -40,9 +40,7 @@ export default function Golden({ onGoldenClick, availableGoldenNFT, totalSupplyG
 					p={"8px 24px"}
 					style={{ textAlign: "center", border: "3px #F0A450 solid", borderRadius: "8px" }}
 				>
-					<Typography style={{ fontFamily: "Montserrat" }}>
-						How much do you want to contribute in the seed sale?
-					</Typography>
+					<Typography style={{ fontFamily: "Montserrat" }}>How much do you want to contribute?</Typography>
 					<Slider
 						aria-label="Golden Ticket"
 						value={sliderValue}

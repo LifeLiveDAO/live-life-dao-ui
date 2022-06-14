@@ -30,10 +30,10 @@ export default function GuestList({
 			</div>
 			<ul>
 				<li className="li-desktop">
-					You are among our earliest supporters and we will reward you with a 30% boost on top of your contribution				
+					You are among our earliest supporters and we will reward you with a 30% boost on top of your contribution
 				</li>
 				<li className="li-desktop">Receive a unique Web3 Raver NFT</li>
-				<li className="li-desktop">Access to the seed round lounge</li>
+				<li className="li-desktop">Access to the OG Lounge</li>
 				<li className="li-desktop">Access to all other private lounges</li>
 				<li className="li-desktop">A nice boost to your gamification supplies</li>
 			</ul>
@@ -44,9 +44,7 @@ export default function GuestList({
 				p={"8px 24px"}
 				style={{ textAlign: "center", border: "3px #61aeda solid", borderRadius: "8px" }}
 			>
-				<Typography style={{ fontFamily: "Montserrat" }}>
-					How much do you want to contribute in the seed sale?
-				</Typography>
+				<Typography style={{ fontFamily: "Montserrat" }}>How much do you want to contribute?</Typography>
 				<Slider
 					aria-label="GuestList Ticket"
 					value={sliderValue}
