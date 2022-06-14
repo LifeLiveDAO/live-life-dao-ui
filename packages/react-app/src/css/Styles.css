@@ -170,7 +170,7 @@ video {
 		padding-bottom: 50%;
 	}
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+@media only screen and (max-device-width: 812px) {
 	.video-responsive {
 		margin: 0;
 		padding-bottom: 75%;
