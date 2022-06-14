@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f00819c.chunk.css",
-    "main.js": "/static/js/main.590ca9e1.chunk.js",
-    "main.js.map": "/static/js/main.590ca9e1.chunk.js.map",
+    "main.css": "/static/css/main.f11fa6e7.chunk.css",
+    "main.js": "/static/js/main.726fd1dd.chunk.js",
+    "main.js.map": "/static/js/main.726fd1dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8c1013d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8c1013d.js.map",
     "static/js/2.61040246.chunk.js": "/static/js/2.61040246.chunk.js",
     "static/js/2.61040246.chunk.js.map": "/static/js/2.61040246.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9f00819c.chunk.css.map": "/static/css/main.9f00819c.chunk.css.map",
+    "static/css/main.f11fa6e7.chunk.css.map": "/static/css/main.f11fa6e7.chunk.css.map",
     "static/js/2.61040246.chunk.js.LICENSE.txt": "/static/js/2.61040246.chunk.js.LICENSE.txt",
     "static/media/MediaQueries.css": "/static/media/bg-hero-dark.ea492d54.jpg",
     "static/media/bg-hero.5b55e4b8.png": "/static/media/bg-hero.5b55e4b8.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8c1013d.js",
     "static/js/2.61040246.chunk.js",
-    "static/css/main.9f00819c.chunk.css",
-    "static/js/main.590ca9e1.chunk.js"
+    "static/css/main.f11fa6e7.chunk.css",
+    "static/js/main.726fd1dd.chunk.js"
   ]
 }
