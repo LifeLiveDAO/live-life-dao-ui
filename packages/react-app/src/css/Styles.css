@@ -57,7 +57,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-size: 1.4em;
-	line-height: 102.8%;
+	/* line-height: 102.8%; */
 }
 .btn {
 	width: 222px;
@@ -90,7 +90,7 @@
 .btn-style-blue-light {
 	color: white;
 	background-color: #4c6e9d4d;
-	border: 1px solid #4c6e9d;
+	border: 2px solid #4c6e9d;
 }
 .btn-style-blue-solid {
 	color: white;
@@ -153,4 +153,22 @@ video {
 		width: 300px;
 		padding: 1rem;
 	}
+}
+
+.video-responsive {
+	overflow: hidden;
+	padding-bottom: 44%;
+	position: relative;
+	height: 0;
+	border: 2px solid yellow;
+	margin: 2rem 8rem;
+	background-color: black;
+}
+
+.video-responsive iframe {
+	left: 0;
+	top: 12px;
+	height: 91%;
+	width: 100%;
+	position: absolute;
 }

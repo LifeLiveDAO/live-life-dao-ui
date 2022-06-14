@@ -1,6 +1,8 @@
 import React from "react";
 import { ReactComponent as Line1 } from "../background/line1.svg";
 import { ReactComponent as Line2 } from "../background/line2.svg";
+import { YoutubeEmbed } from "../components/YoutubeEmbed";
+import { Box } from "@mui/material";
 export default function Project() {
 	return (
 		<>
@@ -32,6 +34,8 @@ export default function Project() {
 					</p>
 					<br></br>
 					<br></br>
+					<YoutubeEmbed embedId="JRjrdSZOJG8" />
+					<div></div>
 					<p className="text">
 						Now in 2022, we’re taking LifeLive to web3. Our vision is to enable a direct connection between artists and
 						fans, shaking up the current system controlled by middlemen, and promote a new wave of global talent in
@@ -43,11 +47,18 @@ export default function Project() {
 				<div className="line2">
 					<Line2 />
 				</div>
-				<button className="btn btn-style-blue-light zoom margin-top">
-					<a className="link" href="https://t.me/lifelivedao" target="_blank" rel="noreferrer">
-						Join our telegram group
-					</a>
-				</button>
+				<Box display="flex" justifyContent={"center"} mx={2}>
+					<button className="btn btn-style-blue-solid zoom margin-top">
+						<a className="link" href="https://t.me/lifelivedao" target="_blank" rel="noreferrer">
+							Join our telegram group
+						</a>
+					</button>
+					<button className="btn btn-style-blue-light zoom margin-top" style={{ marginLeft: "10px" }}>
+						<a className="link" href="https://www.lifelive.io/public-events/" target="_blank" rel="noreferrer">
+							Check past events
+						</a>
+					</button>
+				</Box>
 				<div className="img-container">
 					<img className="img-astronaut" src="inbetween/astronaut.jpg" alt="Astronaut" />
 				</div>
