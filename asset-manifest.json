@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6234dcf.chunk.css",
-    "main.js": "/static/js/main.8fd8c30a.chunk.js",
-    "main.js.map": "/static/js/main.8fd8c30a.chunk.js.map",
+    "main.css": "/static/css/main.9f00819c.chunk.css",
+    "main.js": "/static/js/main.590ca9e1.chunk.js",
+    "main.js.map": "/static/js/main.590ca9e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8c1013d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8c1013d.js.map",
-    "static/js/2.c6ccfdb6.chunk.js": "/static/js/2.c6ccfdb6.chunk.js",
-    "static/js/2.c6ccfdb6.chunk.js.map": "/static/js/2.c6ccfdb6.chunk.js.map",
+    "static/js/2.61040246.chunk.js": "/static/js/2.61040246.chunk.js",
+    "static/js/2.61040246.chunk.js.map": "/static/js/2.61040246.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c6234dcf.chunk.css.map": "/static/css/main.c6234dcf.chunk.css.map",
-    "static/js/2.c6ccfdb6.chunk.js.LICENSE.txt": "/static/js/2.c6ccfdb6.chunk.js.LICENSE.txt",
-    "static/media/MediaQueries.css": "/static/media/bg-hero.5b55e4b8.png",
+    "static/css/main.9f00819c.chunk.css.map": "/static/css/main.9f00819c.chunk.css.map",
+    "static/js/2.61040246.chunk.js.LICENSE.txt": "/static/js/2.61040246.chunk.js.LICENSE.txt",
+    "static/media/MediaQueries.css": "/static/media/bg-hero-dark.ea492d54.jpg",
+    "static/media/bg-hero.5b55e4b8.png": "/static/media/bg-hero.5b55e4b8.png",
     "static/media/Styles.css": "/static/media/footer-bg.2ba0ce7a.jpg",
     "static/media/hero-video.b084b47b.mp4": "/static/media/hero-video.b084b47b.mp4",
-    "static/media/line1.4a9859a7.svg": "/static/media/line1.4a9859a7.svg",
-    "static/media/line2.5fb471af.svg": "/static/media/line2.5fb471af.svg",
-    "static/media/line3.24f4722b.svg": "/static/media/line3.24f4722b.svg",
+    "static/media/line1.a431b7fa.svg": "/static/media/line1.a431b7fa.svg",
+    "static/media/line2.94f1607b.svg": "/static/media/line2.94f1607b.svg",
+    "static/media/line3.97caa023.svg": "/static/media/line3.97caa023.svg",
     "static/media/metamask.426833f1.svg": "/static/media/metamask.426833f1.svg",
     "static/media/wallet-connect.986542a2.svg": "/static/media/wallet-connect.986542a2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8c1013d.js",
-    "static/js/2.c6ccfdb6.chunk.js",
-    "static/css/main.c6234dcf.chunk.css",
-    "static/js/main.8fd8c30a.chunk.js"
+    "static/js/2.61040246.chunk.js",
+    "static/css/main.9f00819c.chunk.css",
+    "static/js/main.590ca9e1.chunk.js"
   ]
 }
